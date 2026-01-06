@@ -14,7 +14,7 @@
 📂 Repo: https://github.com/denchi21/project-MusicianTree/tree/main  
 
 #### 🧠 Project Two (REACT, NEXT.JS)
-🔗 Live: https://09-auth-six-indol.vercel.app/  
+🔗 Live: https://09-auth-y8ox.vercel.app/  
 📂 Repo: https://github.com/tymasc/09-auth  
 
 #### 🎨 Project Three (NODE.JS)
