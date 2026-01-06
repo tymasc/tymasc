@@ -2,7 +2,7 @@
 
 💻 Junior Fullstack Developer  
 📦 This GitHub is my main showcase of pet projects  
-🧩 Here you can find prototypes and completed projects demonstrating my skills
+🧩 Here you can find prototypes and completed projects demonstrating my skills  
 📈 Focused on clean code, modern stack, and real-world logic  
 
 ---
